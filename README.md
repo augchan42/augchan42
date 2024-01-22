@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @augchan42
-- 👀 I’m interested in distributed computing, parallelization, locking and concurrency.
-- 🌱 I’m currently learning AI, Javascript, Rust
+- 👀 I’m interested in AI, Web3, distributed computing, concurrency.
+- 🌱 I’m currently learning frontend stuff, RAG with Haystack
 - 💞️ I’m looking to collaborate on interesting projects with interesting people
 
 <!---
