@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI, Web3, distributed computing, concurrency.
 - 🌱 I’m currently learning frontend stuff, RAG with Haystack
 - 💞️ I’m looking to collaborate on interesting projects with interesting people
+- email: aug@iterative.day
 
 <!---
 augchan42/augchan42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
