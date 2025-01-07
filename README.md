@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Augustin Chan, github user: @augchan42
+- 👋 Hi I'm @augchan42
 - 👀 I’m interested in AI, Web3, distributed computing, concurrency.
 - 🌱 I’m currently learning frontend stuff, RAG with Haystack
 - 💞️ I’m looking to collaborate on interesting projects with interesting people
