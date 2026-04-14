@@ -7,7 +7,7 @@ I build AI systems that transfer capability to the people using them — not jus
 ## Background
 
 - 25+ years enterprise architecture (Informatica MDM, Dun & Bradstreet)
-- First-author, arXiv 2026 — *Statistical Properties of the King Wen Sequence* (cs.LG / cs.AI / cs.NE)
+- First-author, arXiv 2026 — [*Statistical Properties of the King Wen Sequence*](https://arxiv.org/abs/2604.09234)* (cs.LG / cs.AI / cs.NE)
 - Co-host, [Hong Kong AI Podcast](https://hongkongaipodcast.com)
 - B.S. Cognitive Science (Computation), UC San Diego
 
