@@ -2,7 +2,7 @@
 
 **CTO & Founder @ [Digital Rain Technologies](https://digitalrain.studio)**
 
-I build AI systems that transfer capability to the people using them — not just tools, but judgment.
+Building systems that reason — across culture, operations, and enterprise governance.
 
 ## Background
 
