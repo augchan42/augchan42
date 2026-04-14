@@ -1,23 +1,23 @@
-# Hi, I’m Augustin Chan
+# Hi, I'm Augustin Chan
 
 **CTO & Founder @ [Digital Rain Technologies](https://digitalrain.studio)**
 
-Building systems that reason — across culture, operations, and enterprise governance.
+I build AI systems that transfer capability to the people using them — not just tools, but judgment.
 
 ## Background
 
-- Enterprise architecture background (Informatica, Dun & Bradstreet)
+- 25+ years enterprise architecture (Informatica MDM, Dun & Bradstreet)
+- First-author, arXiv 2026 — *Statistical Properties of the King Wen Sequence* (cs.LG / cs.AI / cs.NE)
 - Co-host, [Hong Kong AI Podcast](https://hongkongaipodcast.com)
 - B.S. Cognitive Science (Computation), UC San Diego
 
 ## Projects
 
-- **[ARA-Eval](https://github.com/digital-rain-tech)** — Open-source framework for determining where enterprises can safely deploy autonomous AI agents
-- **[Crawl](https://github.com/augchan42)** — Migration intelligence for legacy system modernization
-- **Ridgeline** — Expedition provisioning software for Outward Bound Hong Kong
-- **Six Lines** — iOS app teaching the I-Ching as literature and philosophy
-- **8-Bit Oracle** — I-Ching through a retro computing lens (Taipei Blockchain Week)
-- **Plum Blossom Computer** — (Consensus HK 2026)
+- **[ARA Eval](https://github.com/digital-rain-tech/ara-eval)** — Open-source framework for AI risk assessment and red-teaming
+- **[Ridgeline](https://ridgeline.works)** — AI provisioning system for Outward Bound HK; 6,000+ participants/yr
+- **[ContentMind](https://contentmind.ai)** — Continuously-ingesting AI research platform; DSPy-driven content variety and ranking
+- **[8-Bit Oracle](https://8bitoracle.ai) / [Six Lines](https://sixlines.online)** — AI and Culture consumer platforms
+- **[Crawl](https://crawl.augustinchan.dev)** — Migration intelligence for legacy system modernization
 
 ## Connect
 
