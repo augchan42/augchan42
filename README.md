@@ -7,7 +7,7 @@ Building systems that reason — across culture, operations, and enterprise gove
 ## Background
 
 - 25+ years enterprise architecture (Informatica MDM, Dun & Bradstreet)
-- First-author, arXiv 2026 — [*Statistical Properties of the King Wen Sequence*](https://arxiv.org/abs/2604.09234)* (cs.LG / cs.AI / cs.NE)
+- First-author, arXiv 2026 — [*Statistical Properties of the King Wen Sequence*](https://arxiv.org/abs/2604.09234) (cs.LG / cs.AI / cs.NE)
 - Co-host, [Hong Kong AI Podcast](https://hongkongaipodcast.com)
 - B.S. Cognitive Science (Computation), UC San Diego
 
@@ -17,7 +17,7 @@ Building systems that reason — across culture, operations, and enterprise gove
 - **[Ridgeline](https://ridgeline.works)** — AI provisioning system for Outward Bound HK; 6,000+ participants/yr
 - **[ContentMind](https://contentmind.ai)** — Continuously-ingesting AI research platform; DSPy-driven content variety and ranking
 - **[8-Bit Oracle](https://8bitoracle.ai) / [Six Lines](https://sixlines.online)** — AI and Culture consumer platforms
-- **[Plum Blossom Computer](https://github.com/augchan42/pbc-consensus-hk-2026)** — (Consensus HK 2026)
+- **[Plum Blossom Computer](https://github.com/augchan42/pbc-consensus-hk-2026)** — 1,000 years of Chinese cosmological mathematics + real-time astronomy, producing a deterministic reasoning signal anchored on Ethereum — built for EasyA × Consensus HK 2026
 - **[Crawl](https://github.com/digital-rain-tech/crawl)** — Migration intelligence for legacy system modernization
 
 ## Connect
