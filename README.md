@@ -17,7 +17,7 @@ I build AI systems that transfer capability to the people using them — not jus
 - **[Ridgeline](https://ridgeline.works)** — AI provisioning system for Outward Bound HK; 6,000+ participants/yr
 - **[ContentMind](https://contentmind.ai)** — Continuously-ingesting AI research platform; DSPy-driven content variety and ranking
 - **[8-Bit Oracle](https://8bitoracle.ai) / [Six Lines](https://sixlines.online)** — AI and Culture consumer platforms
-- **[Crawl](https://crawl.augustinchan.dev)** — Migration intelligence for legacy system modernization
+- **[Crawl](https://github.com/digital-rain-tech/crawl)** — Migration intelligence for legacy system modernization
 
 ## Connect
 
