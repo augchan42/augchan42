@@ -7,7 +7,8 @@ Building systems that reason — across culture, operations, and enterprise gove
 ## Background
 
 - 25+ years enterprise architecture (Informatica MDM, Dun & Bradstreet)
-- First-author, arXiv 2026 — [*Statistical Properties of the King Wen Sequence*](https://arxiv.org/abs/2604.09234) (cs.LG / cs.AI / cs.NE)
+- First-author, arXiv 2026 — [*Statistical Properties of the King Wen Sequence*](https://arxiv.org/abs/2604.09234) (cs.LG / cs.AI / cs.NE)  
+  ORCID: https://orcid.org/0009-0006-4761-0676
 - Co-host, [Hong Kong AI Podcast](https://hongkongaipodcast.com)
 - B.S. Cognitive Science (Computation), UC San Diego
 
@@ -22,6 +23,7 @@ Building systems that reason — across culture, operations, and enterprise gove
 
 ## Connect
 
+- ORCID: [0009-0006-4761-0676](https://orcid.org/0009-0006-4761-0676)
 - Web: [augustinchan.dev](https://augustinchan.dev) / [digitalrain.studio](https://digitalrain.studio)
 - LinkedIn: [linkedin.com/in/auchan](https://www.linkedin.com/in/auchan)
 - X: [@augchan42](https://x.com/augchan42) / [@aug_digitalrain](https://x.com/aug_digitalrain)
