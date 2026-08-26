@@ -1,6 +1,6 @@
 # Hi, I'm Augustin Chan
 
-**CTO & Founder @ [Digital Rain Technologies](https://digitalrain.studio)**
+**CTO & Founder @ [Digital Rain Technologies](https://digitalrain.dev)**
 
 Building systems that reason — across culture, operations, and enterprise governance.
 
@@ -24,7 +24,7 @@ Building systems that reason — across culture, operations, and enterprise gove
 ## Connect
 
 - ORCID: [0009-0006-4761-0676](https://orcid.org/0009-0006-4761-0676)
-- Web: [augustinchan.dev](https://augustinchan.dev) / [digitalrain.studio](https://digitalrain.studio)
+- Web: [augustinchan.dev](https://augustinchan.dev) / [digitalrain.dev](https://digitalrain.dev)
 - LinkedIn: [linkedin.com/in/auchan](https://www.linkedin.com/in/auchan)
 - X: [@augchan42](https://x.com/augchan42) / [@aug_digitalrain](https://x.com/aug_digitalrain)
 - GitHub: [augchan42](https://github.com/augchan42) / [digital-rain-tech](https://github.com/digital-rain-tech)
